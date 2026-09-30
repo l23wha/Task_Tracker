@@ -23,7 +23,5 @@ A simple Command Line Interface (CLI) application built with **Node.js** to trac
 
 ## 📥 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+
+repo:https://github.com/l23wha/Task_Tracker
